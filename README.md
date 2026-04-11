@@ -6,7 +6,7 @@ End-to-end machine learning pipeline that predicts customer churn for a telecom 
 
 ## Overview
 
-Customer churn is one of the most costly problems in the telecom industry. This project builds a full ML pipeline — from raw data to a deployed web app — that identifies customers at risk of churning and explains *why* using SHAP values.
+Customer churn is one of the most costly problems in the telecom industry. This project builds a full ML pipeline that identifies customers at risk of churning and explains why using SHAP values.
 
 The key insight: **Logistic Regression outperformed XGBoost, Random Forest, and LightGBM** on this dataset (ROC-AUC: 0.83), demonstrating that understanding your data matters more than reaching for the most complex model.
 
